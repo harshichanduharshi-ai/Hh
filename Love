@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Special Message</title>
+<style>
+body{
+text-align:center;
+background-color:pink;
+font-family:Arial;
+}
+h1{color:red;}
+button{
+padding:10px 20px;
+font-size:18px;
+}
+</style>
+</head>
+
+<body>
+
+<h1>Hi My Love ❤️</h1>
+<p>You are the most special person in my life.</p>
+<p>Every moment with you makes me happy.</p>
+
+<h2>Will you be my boyfriend forever? 💍</h2>
+
+<button onclick="alert('I love you ❤️')">Click Here</button>
+
+</body>
+</html>
